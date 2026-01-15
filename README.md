@@ -9,8 +9,8 @@ A basic Calculator web application built using HTML, CSS, and JavaScript as part
 - CSS
 - JavaScript
 
-1. Live Demo:
+Click for Live Demo:
    https://irfaaaaaaan.github.io/CodeAlpha_Calculator_Task2/
-2. Or download/clone the repository and open index.html in any web browser
+   
 
 
